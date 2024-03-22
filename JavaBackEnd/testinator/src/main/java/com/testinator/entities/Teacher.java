@@ -1,8 +1,7 @@
-package entities;
+package com.testinator.entities;
 
 import java.util.Set;
-
-import org.aspectj.weaver.patterns.TypePatternQuestions.Question;
+import com.testinator.entities.Question;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;

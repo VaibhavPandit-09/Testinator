@@ -1,4 +1,4 @@
-package entities;
+package com.testinator.entities;
 
 import java.util.Set;
 

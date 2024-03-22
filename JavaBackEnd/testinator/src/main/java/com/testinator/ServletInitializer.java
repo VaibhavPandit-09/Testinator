@@ -1,4 +1,4 @@
-package com.testinator.testinator;
+package com.testinator;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

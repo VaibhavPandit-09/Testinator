@@ -1,4 +1,4 @@
-package entities;
+package com.testinator.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
