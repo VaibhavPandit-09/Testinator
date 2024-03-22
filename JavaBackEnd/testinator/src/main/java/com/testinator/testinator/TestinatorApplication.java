@@ -1,4 +1,4 @@
-package com.testinatior.testinator;
+package com.testinator.testinator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
